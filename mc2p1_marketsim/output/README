@@ -1,0 +1,2 @@
+Output files
+Note: When your code is called in such a way that no output files should be generated, you should NOT rely on the existance of this folder.
